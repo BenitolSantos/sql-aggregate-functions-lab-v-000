@@ -7,6 +7,7 @@ def highest_student_gpa
 #SELECT chooses
 #FROM tells what table
 #SELECT MAX(column_name) FROM table_name;
+#SELECT MIN(column_name) FROM table_name
 end
 
 def lowest_student_gpa
